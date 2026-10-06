@@ -64,11 +64,7 @@ g++ array/twoSum.cpp -std=c++17 -o twoSum
 
 This repository is intended as a personal learning log and daily practice archive. It helps track progress, reinforce concepts, and build confidence for technical interviews and competitive programming.
 
-## Notes
 
-- Solutions are written primarily in C++.
-- The repository is organized by topic, making it easy to review specific patterns.
-- Files may include multiple problem-solving approaches depending on the challenge.
 
 ## Contribution
 
