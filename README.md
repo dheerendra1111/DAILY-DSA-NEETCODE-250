@@ -72,5 +72,5 @@ This is a learning-focused repository, but improvements are welcome. If you have
 
 ## License
 
-This project is intended for educational and personal practice use.
+This project is intended for educational and personal practice use....
 
